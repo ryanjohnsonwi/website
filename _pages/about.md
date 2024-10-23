@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm someone who is interested in lots of things.
+I am a math professor at Grace College in Winona Lake IN, and also a consultant for [Toby Lemon](https://www.tobylemon.com/).  This website links to my research and some of the projects I've done.
