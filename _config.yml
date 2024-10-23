@@ -21,8 +21,8 @@ repository               : "https://github.com/ryanjohnsonwi/website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "headshot2.jpg"
+  name             : "Dr. Ryan T. Johnson"
   pronouns         : "he/him"  
   bio              : "Mathematician, data-explorer, bicycle-rider, husband, father of four."
   location         : "Winona Lake, IN"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DsrFTwcAAAAJ&scilu=&scisig=ADIE8skAAAAAZxlJipLgfa-TrntoIWNHAb4lFqE&gmla=AL3_zigbDIJ4vbGtsUD_4ERqOXewmJBC6j5PAU_cx6XNGWpBiz01cxHJK0ndIZzTZsN5X-3euAhHw55YJtvrxrEYajHMq0pXZIWdtwU&sciund=16088003444148382071"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0003-0437-8940"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "headshot.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
