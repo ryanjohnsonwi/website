@@ -2,7 +2,7 @@
 title: "Impacts on Nutrient and Sediment Resuspension by Various Watercraft Across Multiple Substrates, Depths, and Operating Speeds in Indiana's Largest Natural Lake"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/_publications/2022-10-01-nutrient-and-sediment
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-10-01
 venue: 'Proceedings of the Indiana Academy of Science'
@@ -10,6 +10,10 @@ slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://lakes.grace.edu/wp-content/uploads/2023/04/Impacts-on-Nutrient-and-Sediment-Resuspension-by-Various-Watercraft-Proceedings-of-the-Indiana-Academy-of-Science-2023.pdf'
 citation: "Daeger, Adrienne; Bosch, Nathan S.; Johnson, Ryan. Impacts on Nutrient and Sediment Resuspension by Various Watercraft Across Multiple Substrates, Depths, and Operating Speeds in Indiana's Largest Natural Lake. Proceedings of the Indiana Academy of Science 130 (2022), no. 2, 112--122."
 ---
+
+A project in which I was brought in to do the data analsyis.
+
+## Longer Explanation:
 
 In the summer of 2020 Adrienne Daeger, who was working as the research program specialist at Lakes and Streams at that time, asked me for help with the statistics she was working on.  She was trying to rewrite a paper that had been rejected from the The Lake and Reservoir Management Journal.  My part of the project was to address the followingnote from the reviewer.
 > The statement about not doing statistical comparison due to economic limitations and
@@ -35,4 +39,4 @@ For example, in the portion of figure 3 below, each column of graphs is from a d
 
 This approach to presenting the data, along with the other improvements from the other coauthors, were apparently satisfying to the reviewers of Proceedings of the Indiana Academy of Science, and we were about to publish this previously-rejected paper.
 
-![iamge](images\figure3.png)
+![image](../images/figure3.png)

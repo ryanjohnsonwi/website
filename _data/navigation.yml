@@ -6,16 +6,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/ 
+    
+  - title: "Projects"
+    url: /portfolio/
 
   - title: "Internal Research"
     url: /talks/    
 
   - title: "Student Collaborations"
-    url: /teaching/    
-    
-  - title: "Github Repositories"
-    url: /portfolio/
+    url: /teaching/   
         
  # - title: "Blog Posts"
  #   url: /year-archive/
