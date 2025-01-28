@@ -10,7 +10,7 @@ date: 2015-10-01
 venue: 'Algebra &amp; Number Theory'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://msp.org/ant/2015/9-8/p02.xhtml'
-citation: 'Basak, Tathagata; Johnson, Ryan. (2015). &quot;Indicators of Tambara–Yamagami categories and Gauss sums.&quot; <i>Algebra &amp; Number Theory 1</i>. Vol. 9 (2015), No. 8, 1793–1823.'
+citation: 'Basak, Tathagata; Johnson, Ryan. &quot;Indicators of Tambara–Yamagami categories and Gauss sums.&quot; <i>Algebra &amp; Number Theory 1</i>. vol. 9, no. 8, pp. 1793–1823, 2015.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
