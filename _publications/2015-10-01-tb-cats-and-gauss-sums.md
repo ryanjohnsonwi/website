@@ -8,7 +8,6 @@ excerpt: 'We prove that the higher Frobenius–Schur indicators, introduced by N
 As a corollary to our work, we prove a conjecture by Turaev and Vainerman is false.'
 date: 2015-10-01
 venue: 'Algebra &amp; Number Theory'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://msp.org/ant/2015/9-8/p02.xhtml'
 citation: 'Basak, Tathagata; Johnson, Ryan. &quot;Indicators of Tambara–Yamagami categories and Gauss sums.&quot; <i>Algebra &amp; Number Theory 1</i>. vol. 9, no. 8, pp. 1793–1823, 2015.'
 ---
